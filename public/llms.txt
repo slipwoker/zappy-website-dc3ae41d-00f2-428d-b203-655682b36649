@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://-dc3ae41d.zappy5.app
+https://example.com
 חנות אונליין מובילה לשיפוץ הבית: מברגות, מקדחות נטענות, צבעי קיר זולים וכלים סניטריים. הצטיידו בציוד איכותי לפרויקט הבא שלכם והתחילו לשפץ בקלות!
 
 ### פתרונות
-https://-dc3ae41d.zappy5.app/solutions
+https://example.com/solutions
 פתרונות מקיפים למקצוענים וחובבי עשה זאת בעצמך: השוואת מברגות, מקדחות חזקות וכלים סניטריים מדויקים. בחרו את הכלי שיעשה את העבודה כמו שצריך.
 
 ### השראה
-https://-dc3ae41d.zappy5.app/inspiration
+https://example.com/inspiration
 חפשו השראה לפרויקט השיפוץ שלכם: רעיונות צביעה, טיפים לעבודה עם מברגות ומקדחות, ותכנון חללים מעוצבים. הפכו כל חלום ביתי למציאות בלחיצת כפתור.
 
 ### אודות
-https://-dc3ae41d.zappy5.app/about
+https://example.com/about
 הכירו את הצוות שמביא לכם את מיטב המברגות, המקדחות וצבעי הקיר במחירים משתלמים. אנו מחויבים לאיכות, אמינות ושירות אישי לכל לקוח בדרך לשיפוץ המושלם.
 
 ### צור קשר
-https://-dc3ae41d.zappy5.app/contact
+https://example.com/contact
 צריכים ייעוץ בבחירת מברגות, מקדחות או צבעי קיר? צרו קשר עם צוות המומחים של בית וחומר עוד היום וקבלו תמיכה אישית בדרך לפרויקט המוצלח ביותר שלכם.
 
 ### Products
-https://-dc3ae41d.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - בית וחומר
 
 ### Cart
-https://-dc3ae41d.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-dc3ae41d.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-dc3ae41d.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-dc3ae41d.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-dc3ae41d.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-dc3ae41d.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - בית וחומר
 
 ### Category
-https://-dc3ae41d.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - בית וחומר
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-dc3ae41d.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-dc3ae41d.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-dc3ae41d.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -97,8 +97,8 @@ Home Improvement E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-dc3ae41d.zappy5.app/sitemap.xml
-- Robots: https://-dc3ae41d.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-dc3ae41d.zappy5.app/llms-full.txt
-- Products (JSON): https://-dc3ae41d.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-dc3ae41d.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
