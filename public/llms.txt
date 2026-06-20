@@ -1,0 +1,104 @@
+# בית וחומר — Generative Engine Optimization Map
+
+> An online store specializing in home renovation and improvement supplies, offering a wide range of products including wall paints, drills, screwdrivers, sanitary tools, and more. The store targets DIY enthusiasts and professionals looking for quality home improvement equipment through a convenient online shopping experience.
+
+---
+
+## Pages
+
+### בית
+https://-dc3ae41d.zappy5.app
+חנות אונליין מובילה לשיפוץ הבית: מברגות, מקדחות נטענות, צבעי קיר זולים וכלים סניטריים. הצטיידו בציוד איכותי לפרויקט הבא שלכם והתחילו לשפץ בקלות!
+
+### פתרונות
+https://-dc3ae41d.zappy5.app/solutions
+פתרונות מקיפים למקצוענים וחובבי עשה זאת בעצמך: השוואת מברגות, מקדחות חזקות וכלים סניטריים מדויקים. בחרו את הכלי שיעשה את העבודה כמו שצריך.
+
+### השראה
+https://-dc3ae41d.zappy5.app/inspiration
+חפשו השראה לפרויקט השיפוץ שלכם: רעיונות צביעה, טיפים לעבודה עם מברגות ומקדחות, ותכנון חללים מעוצבים. הפכו כל חלום ביתי למציאות בלחיצת כפתור.
+
+### אודות
+https://-dc3ae41d.zappy5.app/about
+הכירו את הצוות שמביא לכם את מיטב המברגות, המקדחות וצבעי הקיר במחירים משתלמים. אנו מחויבים לאיכות, אמינות ושירות אישי לכל לקוח בדרך לשיפוץ המושלם.
+
+### צור קשר
+https://-dc3ae41d.zappy5.app/contact
+צריכים ייעוץ בבחירת מברגות, מקדחות או צבעי קיר? צרו קשר עם צוות המומחים של בית וחומר עוד היום וקבלו תמיכה אישית בדרך לפרויקט המוצלח ביותר שלכם.
+
+### Products
+https://-dc3ae41d.zappy5.app/products
+המוצרים שלנו - בית וחומר
+
+### Cart
+https://-dc3ae41d.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-dc3ae41d.zappy5.app/checkout
+תשלום
+
+### Login
+https://-dc3ae41d.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-dc3ae41d.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-dc3ae41d.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-dc3ae41d.zappy5.app/product/:slug
+פרטי המוצר - בית וחומר
+
+### Category
+https://-dc3ae41d.zappy5.app/category/:slug
+מוצרים - בית וחומר
+
+## Legal & Policy
+
+### Privacy Policy
+https://-dc3ae41d.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-dc3ae41d.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-dc3ae41d.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About בית וחומר
+An online store specializing in home renovation and improvement supplies, offering a wide range of products including wall paints, drills, screwdrivers, sanitary tools, and more. The store targets DIY enthusiasts and professionals looking for quality home improvement equipment through a convenient online shopping experience.
+
+## Target Audience
+- חובבי עשה זאת בעצמך
+- בעלי בתים חדשים
+- קבלנים מקצועיים
+
+## Industry
+Home Improvement E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-dc3ae41d.zappy5.app/sitemap.xml
+- Robots: https://-dc3ae41d.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-dc3ae41d.zappy5.app/llms-full.txt
+- Products (JSON): https://-dc3ae41d.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-dc3ae41d.zappy5.app/product-feed.xml
